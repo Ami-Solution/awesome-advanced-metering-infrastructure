@@ -506,6 +506,7 @@ Further resources:
 * [pi-relay-controller](https://github.com/amisolution/pi-relay-controller)
 * [Energy-Online-DLT](https://github.com/ETHBiots2018/EnergyOnline)
 * [blockchain-energy-merger-and-acquisition](https://github.com/ETHBiots2018/blockchain-energy-mergerandacquisition)
+* [DLT-smart-contracts-smart-grid](https://github.com/zoernert/powerchain)
 
 <a name="javascript-nlp"></a>
 #### Natural Language Processing
