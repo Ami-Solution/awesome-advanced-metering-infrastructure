@@ -14,7 +14,7 @@ Logos go here
 
 ## Knowledge Sharing
 
-Academic and industry partners share IoT data, techniques, and understanding in order to maximize impact and move people forward.
+Academic and industry partners share Smart Meter data, techniques, and understanding in order to maximize impact and move adoption forward.
 
 ## Data Science Education for Advanced Metering Infrastructure Professionals
 
