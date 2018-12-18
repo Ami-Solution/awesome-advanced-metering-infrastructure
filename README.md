@@ -892,6 +892,7 @@ be
 <a name="python-amis"></a>
 #### AMI Solution
 
+* [Smart-City-Services-Lyon](https://github.com/Hexanonyme/PLD_SmartCity)
 * [AMI-Smart-Building](https://github.com/LaGuer/jupy-smartbuilding-amis) - Materials and IPython notebooks for "Smart Building and meter Analysis" by LaGuer.
 
 <a name="python-cv"></a>
@@ -1180,6 +1181,7 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 #### Misc
 * [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+* [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Groovy IDE allows you to integrate devices directly with the SmartThings hub using ZigBee, Z-Wave, or LAN/HTTP protocols
 
 <a name="credits"></a>
 ## Credits
