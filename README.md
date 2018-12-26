@@ -903,6 +903,7 @@ be
 * [building-data-genome](https://github.com/buds-lab/the-building-data-genome-project) - building-data-genome
 * [AMI-Smart-Building](https://github.com/LaGuer/jupy-smartbuilding-amis) - Materials and IPython notebooks for "Smart Building and meter Analysis" by LaGuer.
 * [security testing of smart meters with termineter](https://github.com/securestate/termineter) - security testing of smart meters; Currently supported are Meters using C1219-2007
+* [Smart meter Prediction](https://github.com/HanYangZhao/SmartMeterPrediction) - HydroQuebec Home energy usages prediction based on machine learning and smart meter data
 
 <a name="python-cv"></a>
 #### Computer Vision
