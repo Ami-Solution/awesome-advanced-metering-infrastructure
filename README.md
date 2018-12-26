@@ -1191,10 +1191,10 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 
 * [Smart-Meter Middleware](https://github.com/Logimethods/smart-meter) - Smart Meter Middleware Big Data Application in Scala, Shell, Python.
 
-<a name="scala"></a>
+<a name="shell"></a>
 ## Shell
 
-<a name="scala-amis"></a>
+<a name="shell-amis"></a>
 #### AMIS
 
 * [Raspberry Pi tracker for Neptune R900 smart water meters](https://github.com/mdp/AtlantaWaterMeter) - Raspberry Pi tracker for Neptune R900 smart water meters Shell and Docker. It works with RTLAMR and RESIN.IO.
