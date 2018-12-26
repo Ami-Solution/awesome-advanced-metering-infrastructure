@@ -179,6 +179,10 @@ Further resources:
 <a name="c"></a>
 ## C
 
+<a name="c-amis"></a>
+#### C Amis
+https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
+
 <a name="c-general-purpose"></a>
 #### General-Purpose Machine Learning
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
@@ -417,6 +421,8 @@ Further resources:
 <a name="java-amis"></a>
 #### Java Amis
 * [AMIS-MIddleWare](https://github.com/universAAL/middleware)
+* [Smart Parking Metering](https://github.com/shyampurk/bluemix-parking-meter) - IoT Smart Parking Metering system with IBM Bluemix & PubNub
+* [smart-meter dashboard and aggregator](https://github.com/snicoll-demos/smart-meter) - project is used as live demo material for "Spring Boot 2.0 Web Applications". It uses Java 1.8, Maven 3.5 and a bash-like shell
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
@@ -892,9 +898,11 @@ be
 <a name="python-amis"></a>
 #### AMI Solution
 
-* [Smart-City-Services-Lyon](https://github.com/Hexanonyme/PLD_SmartCity)
-* [building-data-genome](https://github.com/buds-lab/the-building-data-genome-project)
+* [Linky domoticz](https://github.com/empierre/domoticz_linky) - Get Linky smart meter data and push it to domoticz see https://easydomoticz.com/forum/viewtopic.php?p=45583#p45583
+* [Smart-City-Services-Lyon](https://github.com/Hexanonyme/PLD_SmartCity) - Smart-City-Services-Lyon
+* [building-data-genome](https://github.com/buds-lab/the-building-data-genome-project) - building-data-genome
 * [AMI-Smart-Building](https://github.com/LaGuer/jupy-smartbuilding-amis) - Materials and IPython notebooks for "Smart Building and meter Analysis" by LaGuer.
+* [security testing of smart meters with termineter](https://github.com/securestate/termineter) - security testing of smart meters; Currently supported are Meters using C1219-2007
 
 <a name="python-cv"></a>
 #### Computer Vision
@@ -1173,6 +1181,23 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 
 * [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
 * [Listof](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+
+
+<a name="scala"></a>
+## Scala
+
+<a name="scala-amis"></a>
+#### AMIS
+
+* [Smart-Meter Middleware](https://github.com/Logimethods/smart-meter) - Smart Meter Middleware Big Data Application in Scala, Shell, Python.
+
+<a name="scala"></a>
+## Shell
+
+<a name="scala-amis"></a>
+#### AMIS
+
+* [Raspberry Pi tracker for Neptune R900 smart water meters](https://github.com/mdp/AtlantaWaterMeter) - Raspberry Pi tracker for Neptune R900 smart water meters Shell and Docker. It works with RTLAMR and RESIN.IO.
 
 
 <a name="tools"></a>
