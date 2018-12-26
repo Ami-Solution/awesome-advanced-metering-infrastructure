@@ -908,6 +908,7 @@ be
 * [AMI-Smart-Building](https://github.com/LaGuer/jupy-smartbuilding-amis) - Materials and IPython notebooks for "Smart Building and meter Analysis" by LaGuer.
 * [security testing of smart meters with termineter](https://github.com/securestate/termineter) - security testing of smart meters; Currently supported are Meters using C1219-2007
 * [Smart meter Prediction](https://github.com/HanYangZhao/SmartMeterPrediction) - HydroQuebec Home energy usages prediction based on machine learning and smart meter data
+* [Smart-Meter-Energy-Usage-Forecast](https://github.com/LenzDu/Smart-Meter) - Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning 
 
 <a name="python-cv"></a>
 #### Computer Vision
@@ -1145,6 +1146,15 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 * [Gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists. 
 * [Universe](https://github.com/openai/universe) - Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
+
+<a name="ruby"></a>
+## R
+
+<a name="r-amis"></a>
+#### AMIS
+
+* [Electricity and Gas Smart Meters Time Series Analytics Irish Commission for energy regulations Customer Behaviour Trial](https://github.com/wwzjustin/CER-Smart-Meter-Project-by-Irish-Social-Science-Data-Archive.) - Commission Energy Regulation Smart Meter Project. Electricity and Gas Smart meter Customer Behaviour Trial: During 2009 and 2010, with over 5,000 Irish homes and businesses. http://www.ucd.ie/issda/data/commissionforenergyregulationcer/# 
+
 
 <a name="ruby"></a>
 ## Ruby
