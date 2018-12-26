@@ -524,6 +524,7 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [Energy-Online-DLT](https://github.com/ETHBiots2018/EnergyOnline)
 * [blockchain-energy-merger-and-acquisition](https://github.com/ETHBiots2018/blockchain-energy-mergerandacquisition)
 * [DLT-smart-contracts-smart-grid](https://github.com/zoernert/powerchain)
+* [smart-meter-data-catalog](https://github.com/smda/smart-meter-data-catalog) - Smart Meter related datasets (and code repositories that use these datasets)
 
 <a name="javascript-nlp"></a>
 #### Natural Language Processing
@@ -916,6 +917,7 @@ be
 * [security testing of smart meters with termineter](https://github.com/securestate/termineter) - security testing of smart meters; Currently supported are Meters using C1219-2007
 * [Smart meter Prediction](https://github.com/HanYangZhao/SmartMeterPrediction) - HydroQuebec Home energy usages prediction based on machine learning and smart meter data
 * [Smart-Meter-Energy-Usage-Forecast](https://github.com/LenzDu/Smart-Meter) - Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning 
+* [Hardware design and software for smart water metering using embedded computers. ](https://github.com/UCHIC/CIWS-Loggers) - Cyberinfrastructure for Intelligent Water Supply (CIWS). Using low cost, commercially available, embedded computers and sensors to log data from existing analog residential water meters as well as commercial water meters with pulsed or current loop outputs (4-20 mA) on USU's campus.
 
 <a name="python-cv"></a>
 #### Computer Vision
