@@ -426,6 +426,7 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [AMIS-MIddleWare](https://github.com/universAAL/middleware)
 * [Smart Parking Metering](https://github.com/shyampurk/bluemix-parking-meter) - IoT Smart Parking Metering system with IBM Bluemix & PubNub
 * [smart-meter dashboard and aggregator](https://github.com/snicoll-demos/smart-meter) - project is used as live demo material for "Spring Boot 2.0 Web Applications". It uses Java 1.8, Maven 3.5 and a bash-like shell
+* [SmartWaterMeterReading](https://github.com/parure/smart-water-meter-reading) - SmartWaterMeterReading 0.8 is a project that contains a program that reads images of water meter (GWF MTK) and returns the index.
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
