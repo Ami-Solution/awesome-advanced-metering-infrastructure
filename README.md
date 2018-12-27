@@ -219,6 +219,8 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [Smart-Grid-protocol](https://github.com/dolphinhats/Smart-Grid-Advanced-Metering-Infrastructure-privacy-preserving-protocol-implementation)
 * [CitizenSensor](https://github.com/orangewaylab/CitizenSensor) - A low budget battery powered LoRa node to smart up your city
 * [IBM-smart-city-gateway](https://github.com/IBM/smart-city-gateway) - Create a LoRaWAN based Smart City network
+* [MBus UDP Converter](https://github.com/ceslavc/mbus-to-udp) - A converter that connects to a Kamstrup smart power meter MBUS output, reads OBIS data and sends them as UDP
+* [T3000 Building Automation System](https://github.com/temcocontrols/T3000_Building_Automation_System) - Bacnet Modbus Zigbee building automation front end 
 
 <a name="cpp-cv"></a>
 #### Computer Vision
@@ -439,6 +441,7 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - OSGP / IoT Open source project about building an Open Smart Grid Platform
 * [SmartCity-IoT-RFID-NFC](https://github.com/Labas-Vakaras/Smart_City) - SmaCi is an online platform which provides a user friendly way to interact with your city. Here you can report problems to the appropriate authorities by scanning a QR barcode of the faulty city component, or just by using the near field communication features (RFID/NFC) of your smartphone
 * [Jakarta Smart City API](https://github.com/esafirm/Open-SmartCity-Jakarta) - API for data like smartcity.jakarta.go.id
+* [Master Slave Modbus on Maven](https://github.com/digitalpetri/modbus) - High-performance, non-blocking, zero-buffer-copying Modbus for Java 
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
@@ -897,6 +900,11 @@ be
 <a name="php"></a>
 ## PHP
 
+<a name="php-amis"></a>
+### AMIS
+
+* [website-for-arduino-based-energy-meter](https://github.com/kulten/website-for-arduino-based-energy-meter)
+
 <a name="php-nlp"></a>
 ### Natural Language Processing
 
@@ -925,6 +933,8 @@ be
 * [Hardware design and software for smart water metering using embedded computers. ](https://github.com/UCHIC/CIWS-Loggers) - Cyberinfrastructure for Intelligent Water Supply (CIWS). Using low cost, commercially available, embedded computers and sensors to log data from existing analog residential water meters as well as commercial water meters with pulsed or current loop outputs (4-20 mA) on USU's campus.
 * [City Data Exchange & Analytics Middleware (CDX) for Smart Cities](https://github.com/rbccps-iisc/ideam) - City Data Exchange & Analytics Middleware (CDX) for Smart Cities
 * [NIST smart cities architecture](https://github.com/usnistgov/smartcitiesarchitecture) - IES-City Framework Collaboration Site. This github project is a collaboration site for the NIST led IES-City Framework project.
+* [Smart-City-Project](https://github.com/TotallyMelvin/Smart-City-Project) - Smart-City-Project by TotallyMelvin
+* [pymodbus](https://github.com/riptideio/pymodbus) - A full modbus protocol written in python ; Pymodbus is a full Modbus protocol implementation using twisted for its asynchronous communications core. It can also be used without any third party dependencies (aside from pyserial) if a more lightweight project is needed. Furthermore, it should work fine under any python version > 2.7 (including python 3+)
 
 <a name="python-cv"></a>
 #### Computer Vision
@@ -1240,6 +1250,9 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 * [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Groovy IDE allows you to integrate devices directly with the SmartThings hub using ZigBee, Z-Wave, or LAN/HTTP protocols.
 * [Jupyter Notebook Electrical Load Measurements Dataset](https://github.com/RSLi/REFIT-Visualizations/blob/master/REFIT.ipynb) - Visualizations of REFIT Electrical Load Measurements Dataset
+* [Jupyter Notebook OSSDC-VisionBasedACC](https://github.com/OSSDC/OSSDC-VisionBasedACC) - Open Source Self Driving Car Initiative OSSDC-VisionBasedACC
+* [Jupyter Notebook self-driving-car](https://github.com/OSSDC/self-driving-car-1) - Udacity Self Driving Car (SDC) Challenges
+* [Jupyter Notebook London smart-meter](https://github.com/jeanmidevacc/london_smartmeter) - London smart-meter dataset
 
 
 <a name="credits"></a>
