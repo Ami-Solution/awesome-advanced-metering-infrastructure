@@ -434,6 +434,7 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [Smart Parking Metering](https://github.com/shyampurk/bluemix-parking-meter) - IoT Smart Parking Metering system with IBM Bluemix & PubNub
 * [smart-meter dashboard and aggregator](https://github.com/snicoll-demos/smart-meter) - project is used as live demo material for "Spring Boot 2.0 Web Applications". It uses Java 1.8, Maven 3.5 and a bash-like shell
 * [SmartWaterMeterReading](https://github.com/parure/smart-water-meter-reading) - SmartWaterMeterReading 0.8 is a project that contains a program that reads images of water meter (GWF MTK) and returns the index.
+* [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - OSGP / IoT Open source project about building an Open Smart Grid Platform
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
@@ -1231,7 +1232,9 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 #### Misc
 * [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
-* [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Groovy IDE allows you to integrate devices directly with the SmartThings hub using ZigBee, Z-Wave, or LAN/HTTP protocols
+* [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Groovy IDE allows you to integrate devices directly with the SmartThings hub using ZigBee, Z-Wave, or LAN/HTTP protocols.
+* [Jupyter Notebook Electrical Load Measurements Dataset](https://github.com/RSLi/REFIT-Visualizations/blob/master/REFIT.ipynb) - Visualizations of REFIT Electrical Load Measurements Dataset
+
 
 <a name="credits"></a>
 ## Credits
