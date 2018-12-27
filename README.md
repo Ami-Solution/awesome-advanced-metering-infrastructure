@@ -217,6 +217,8 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 
 * [GridLabD](https://github.com/dchassin/gridlabd)
 * [Smart-Grid-protocol](https://github.com/dolphinhats/Smart-Grid-Advanced-Metering-Infrastructure-privacy-preserving-protocol-implementation)
+* [CitizenSensor](https://github.com/orangewaylab/CitizenSensor) - A low budget battery powered LoRa node to smart up your city
+* [IBM-smart-city-gateway](https://github.com/IBM/smart-city-gateway) - Create a LoRaWAN based Smart City network
 
 <a name="cpp-cv"></a>
 #### Computer Vision
@@ -435,6 +437,8 @@ https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
 * [smart-meter dashboard and aggregator](https://github.com/snicoll-demos/smart-meter) - project is used as live demo material for "Spring Boot 2.0 Web Applications". It uses Java 1.8, Maven 3.5 and a bash-like shell
 * [SmartWaterMeterReading](https://github.com/parure/smart-water-meter-reading) - SmartWaterMeterReading 0.8 is a project that contains a program that reads images of water meter (GWF MTK) and returns the index.
 * [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - OSGP / IoT Open source project about building an Open Smart Grid Platform
+* [SmartCity-IoT-RFID-NFC](https://github.com/Labas-Vakaras/Smart_City) - SmaCi is an online platform which provides a user friendly way to interact with your city. Here you can report problems to the appropriate authorities by scanning a QR barcode of the faulty city component, or just by using the near field communication features (RFID/NFC) of your smartphone
+* [Jakarta Smart City API](https://github.com/esafirm/Open-SmartCity-Jakarta) - API for data like smartcity.jakarta.go.id
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
@@ -919,6 +923,8 @@ be
 * [Smart meter Prediction](https://github.com/HanYangZhao/SmartMeterPrediction) - HydroQuebec Home energy usages prediction based on machine learning and smart meter data
 * [Smart-Meter-Energy-Usage-Forecast](https://github.com/LenzDu/Smart-Meter) - Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning 
 * [Hardware design and software for smart water metering using embedded computers. ](https://github.com/UCHIC/CIWS-Loggers) - Cyberinfrastructure for Intelligent Water Supply (CIWS). Using low cost, commercially available, embedded computers and sensors to log data from existing analog residential water meters as well as commercial water meters with pulsed or current loop outputs (4-20 mA) on USU's campus.
+* [City Data Exchange & Analytics Middleware (CDX) for Smart Cities](https://github.com/rbccps-iisc/ideam) - City Data Exchange & Analytics Middleware (CDX) for Smart Cities
+* [NIST smart cities architecture](https://github.com/usnistgov/smartcitiesarchitecture) - IES-City Framework Collaboration Site. This github project is a collaboration site for the NIST led IES-City Framework project.
 
 <a name="python-cv"></a>
 #### Computer Vision
