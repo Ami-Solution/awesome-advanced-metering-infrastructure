@@ -45,8 +45,6 @@ Further resources:
 
 * For a list of blogs on data science and  advanced metering infrastructure, go [here](https://github.com/Ami-Solution/awesome-advanced-metering-infrastructure/blob/master/blogs.md).
 
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/Ami-Solution/awesome-advanced-metering-infrastructure/blob/master/meetups.md).
-
 ## Table of Contents
 
 ### Frameworks and Libraries
@@ -159,12 +157,12 @@ Further resources:
     - [Natural Language Processing](#sas-nlp)
 写个脚本把它们爬下来    - [Demos and Scripts](#sas-demos)
 - [Scala](#scala)
-    - [Ami Solution](#scala-amis)
+    - [Ami-Solution](#scala-amis)
     - [Natural Language Processing](#scala-nlp)
     - [Data Analysis / Data Visualization](#scala-data-analysis)
     - [General-Purpose Machine Learning](#scala-general-purpose)
 - [Shell](#shell)
-    - [Ami Solution](#shell-amis)
+    - [Ami-Solution](#shell-amis)
 - [Swift](#swift)
     - [General-Purpose Machine Learning](#swift-general-purpose)
 - [TensorFlow](#tensor)
@@ -172,7 +170,7 @@ Further resources:
 
 ### Tools
 
-- [Misc](#tools-misc)
+- [Jupyter](#tools-misc)
 
 
 [Credits](#credits)
@@ -191,7 +189,9 @@ Further resources:
 
 <a name="c-amis"></a>
 #### C Amis
-https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
+* [ModBus](https://github.com/gianfrdp/SDM120C) - sdm120c ModBus Mini Smart Meter EASTRON
+* [M-bus Library](https://github.com/rscada/libmbus) - M-bus Library from Raditex Control; Meter-bus library and utility programs 
+* [Lonworks](https://github.com/ikegam/iLonSSIPGW) - Lonworks(R)/IP; iLon SOAP to IEEE1888 Gateway
 
 <a name="c-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -1245,7 +1245,7 @@ hourly power consumption data comes from PJM's website and are in megawatts (MW)
 ## Tools
 
 <a name="tools-misc"></a>
-#### Misc
+#### Jupyter
 * [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 * [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) - Groovy IDE allows you to integrate devices directly with the SmartThings hub using ZigBee, Z-Wave, or LAN/HTTP protocols.
