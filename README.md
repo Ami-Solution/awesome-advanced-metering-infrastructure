@@ -935,6 +935,9 @@ be
 * [NIST smart cities architecture](https://github.com/usnistgov/smartcitiesarchitecture) - IES-City Framework Collaboration Site. This github project is a collaboration site for the NIST led IES-City Framework project.
 * [Smart-City-Project](https://github.com/TotallyMelvin/Smart-City-Project) - Smart-City-Project by TotallyMelvin
 * [pymodbus](https://github.com/riptideio/pymodbus) - A full modbus protocol written in python ; Pymodbus is a full Modbus protocol implementation using twisted for its asynchronous communications core. It can also be used without any third party dependencies (aside from pyserial) if a more lightweight project is needed. Furthermore, it should work fine under any python version > 2.7 (including python 3+)
+* [BAC0 BACnet](https://github.com/ChristianTremblay/BAC0) - BAC0 is a Python 3 (3.4 and over) scripting application that uses BACpypes to process BACnet messages on a IP network. This library brings out simple commands to browse a BACnet network, read properties from BACnet devices or write to them.
+* [bacpypes BACnet](https://github.com/JoelBender/bacpypes) - BACpypes provides a BACnet application layer and network layer written in Python for daemons, scripting, and graphical interfaces. This is the current project, not the one over on SourceForge.
+* [Open Modeling Framework for smart grid](https://github.com/dpinney/omf) - The Open Modeling Framework for smart grid cost-benefit analysis. 
 
 <a name="python-cv"></a>
 #### Computer Vision
@@ -1058,7 +1061,7 @@ be
 * [TPOT](https://github.com/rhiever/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 * [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
-* [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
+* [Orange Biolab](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification.
 * [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
